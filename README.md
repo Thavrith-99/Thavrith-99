@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="images/header.png" alt="Cybersecurity Banner" style="height: 300px; width: auto;" />
-  <img src="abc.jpg" alt="Cybersecurity Banner" width="100%" />
+  <img src="abc.png" alt="Cybersecurity Banner" style="height: 300px; width: auto;" />
 </p>
 
 # 🌐 Sroas Thavrith — Cybersecurity Student & Web App Developer
