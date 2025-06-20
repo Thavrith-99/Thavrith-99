@@ -1,5 +1,12 @@
-## 💻 Tech Stack
+<p align="center">
+  <img src="abc.jpg" alt="Cybersecurity Banner" style="height: 300px; width: auto;" />
+</p>
 
+# 🌐 Sroas Thavrith — Cybersecurity Student & Web App Developer
+
+Hello World! I’m a passionate **Cybersecurity student** and **Web Application Developer** who loves exploring how systems work, how to secure them, and how to build powerful web applications with modern technologies.
+
+---
 ### 🛡️ Cybersecurity & Networking Tools
 
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
