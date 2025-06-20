@@ -6,14 +6,11 @@
 ![Shell](https://img.shields.io/badge/Shell-%23121011.svg?style=for-the-badge)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-
 ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
 ![Acunetix](https://img.shields.io/badge/Acunetix-F10000?style=for-the-badge&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-1B4F72?style=for-the-badge&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-0033A0?style=for-the-badge&logoColor=white)
@@ -22,7 +19,6 @@
 ![SQLMap](https://img.shields.io/badge/SQLMap-000000?style=for-the-badge)
 ![Nikto](https://img.shields.io/badge/Nikto-800000?style=for-the-badge)
 ![SSLScan](https://img.shields.io/badge/SSLScan-696969?style=for-the-badge)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
