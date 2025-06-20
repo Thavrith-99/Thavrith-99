@@ -1,8 +1,9 @@
 <p align="center">
   <img src="images/header.png" alt="Cybersecurity Banner" style="height: 300px; width: auto;" />
+  src="abc.jpg" alt="Cybersecurity Banner" width="100%" />
 </p>
 
-src="abc.jpg" alt="Cybersecurity Banner" width="100%" />
+
 </p># 🌐 Sroas Thavrith — Cybersecurity Student & Web App Developer
 
 Hello World! I’m a passionate **Cybersecurity student** and **Web Application Developer** who loves exploring how systems work, how to secure them, and how to build powerful web applications with modern technologies.
