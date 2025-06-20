@@ -1,10 +1,9 @@
 <p align="center">
   <img src="images/header.png" alt="Cybersecurity Banner" style="height: 300px; width: auto;" />
-  src="abc.jpg" alt="Cybersecurity Banner" width="100%" />
+  <img src="abc.jpg" alt="Cybersecurity Banner" width="100%" />
 </p>
 
-
-</p># 🌐 Sroas Thavrith — Cybersecurity Student & Web App Developer
+# 🌐 Sroas Thavrith — Cybersecurity Student & Web App Developer
 
 Hello World! I’m a passionate **Cybersecurity student** and **Web Application Developer** who loves exploring how systems work, how to secure them, and how to build powerful web applications with modern technologies.
 
@@ -48,4 +47,3 @@ I also build full-stack applications using powerful backend frameworks and datab
 ## 📚 My Learning Philosophy
 
 I believe in continuous learning and applying knowledge through real-world projects, CTFs, and practical deployments. I aim to bridge the gap between secure code and efficient infrastructure.
-
